@@ -3,7 +3,7 @@
 
 
 Penerapan Algoritma Simple Additive Weighting (SAW) Dalam Sistem Penunjang Keputusan
-Menentukan Siswa Berprestasi Pada SMKN 9 Kota Bekasi Berbasis Web
+Menentukan Siswa Berprestasi 
 
 
-Adji Muhamad Zidan | 201943501940 | R8X
+Anggun Saputra | 3623110016 | Sistem dan teknologi informasi
